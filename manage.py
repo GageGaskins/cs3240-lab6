@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
-# Jackie's comment: Issue 3
+# Gonna make this conflict lolol
 
 
 if __name__ == "__main__":
